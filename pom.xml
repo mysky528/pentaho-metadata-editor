@@ -12,7 +12,7 @@
   <version>8.1.0.0-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>${project.artifactId}</name>
-  <description></description>
+  <description/>
   <url>http://www.pentaho.com</url>
 
   <modules>
@@ -30,7 +30,7 @@
     <blueprints-core.version>2.6.0</blueprints-core.version>
     <com.sun.jersey.version>1.19.1</com.sun.jersey.version>
     <commands.version>3.3.0-I20070605-0010</commands.version>
-    <commons-codec.version>1.10</commons-codec.version>
+    <commons-codec.version>1.13</commons-codec.version>
     <commons-collections.version>3.2.2</commons-collections.version>
     <commons-configuration.version>1.9</commons-configuration.version>
     <commons-io.version>2.2</commons-io.version>
