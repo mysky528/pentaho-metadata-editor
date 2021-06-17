@@ -12,7 +12,7 @@
   <version>8.1.0.0-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>${project.artifactId}</name>
-  <description></description>
+  <description/>
   <url>http://www.pentaho.com</url>
 
   <modules>
@@ -42,7 +42,7 @@
     <hibernate.version>3.2.2.ga</hibernate.version>
     <javadbf.version>0.4.0</javadbf.version>
     <javassist.version>3.20.0-GA</javassist.version>
-    <jaxen.version>1.1.1</jaxen.version>
+    <jaxen.version>1.1.6</jaxen.version>
     <jface.version>3.3.0-I20070606-0010</jface.version>
     <js.version>1.7R3</js.version>
     <jsch.version>0.1.54</jsch.version>
@@ -63,7 +63,7 @@
     <net.sf.saxon.version>9.1.0.8</net.sf.saxon.version>
     <org.apache.felix.main.version>4.2.1</org.apache.felix.main.version>
     <org.apache.karaf.jaas.boot.version>2.4.2</org.apache.karaf.jaas.boot.version>
-    <org.apache.karaf.version>3.0.3</org.apache.karaf.version>
+    <org.apache.karaf.version>4.1.7</org.apache.karaf.version>
     <org.eclipse.equinox.common.version>3.3.0-v20070426</org.eclipse.equinox.common.version>
     <org.netbeans.version>200507110943</org.netbeans.version>
     <org.eclipse.swt.version>4.6</org.eclipse.swt.version>
